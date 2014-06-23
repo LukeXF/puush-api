@@ -1,3 +1,7 @@
+I plan to develop my own branded image sharing/uploading app in the future. Using the fork will providethe base for my work.
+
+================
+
 puu.sh does not offer a custom FTP/SFTP server option and the product they offer is so wonderful that allowing something such as this would benefit some of us greatly.
 
 This is a very simple replacement for the puush.me upload servers. Please note that this only offers uploading, no UI, no tracking, no "fake accounts" (make you show up as Pro), etc etc.
